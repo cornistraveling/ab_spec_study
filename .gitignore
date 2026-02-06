@@ -1,0 +1,21 @@
+# experiment artifacts
+runs/
+workspaces/
+repo_cache/
+
+# logs
+*log.txt
+*.diff
+
+# caches
+.cache/
+.huggingface/
+
+# env
+.venv/
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+eval/
