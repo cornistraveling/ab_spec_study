@@ -81,6 +81,8 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
 pytz==2025.2
 PyYAML==6.0.3
+radon
+lizard
 requests==2.32.5
 rich==14.2.0
 -e git+https://github.com/mwaskom/seaborn.git@54cab15bdacfaa05a88fbc5502a5b322d99f148e#egg=seaborn
